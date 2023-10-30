@@ -1,6 +1,6 @@
 well, hi, I'm mnelen12345.
 ---
-love kikuo, maretu and inabakumori
+大丈夫ですか？
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,py,cs,unity,linux)](https://skillicons.dev)
 
