@@ -7,5 +7,5 @@ well, hi, I'm mnelen12345.
 ### discord activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/954702228789268512)](https://discord.com/users/954702228789268512)
 
-### hoshino ai
-![](https://media.tenor.com/P7hCyZlzDH4AAAAC/wink-anime.gif)
+### Hitori Gotou
+![image](assets/bocchi.png)
