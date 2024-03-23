@@ -1,12 +1,20 @@
-well, hi, I'm mnelen12345.
+<div align="center">
+  <img align="center" src="assets/miku.jpg" width="260px">
+  <h3 align="center">well, hi, I'm mnelen12345.</h3>
+</div>
+
 ---
-damn/..
-realy bocchi fan
-### skills
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,py,cs,unity,linux)](https://skillicons.dev)
 
-### discord activity
-[![Discord Presence](https://lanyard.cnrad.dev/api/954702228789268512)](https://discord.com/users/954702228789268512)
+  <div align="center">
+      <h3 align="center">discord activity</h3>
+      <a href="https://discord.com/users/954702228789268512" target="_blank" rel="noreferrer">
+        <img src="https://lanyard.cnrad.dev/api/954702228789268512?showDisplayName=true&idleMessage=Problably%20Sleeping...&borderRadius=30px" alt="Discord Presence">
+      </a>
+  </div>
+</div>
 
-### Hitori Gotou
-![image](assets/bocchi.jpg)
+---
+
+contact me
+[Discord](https://discordapp.com/users/954702228789268512)
+
