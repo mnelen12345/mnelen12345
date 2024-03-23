@@ -16,5 +16,5 @@
 ---
 
 contact me
-[Discord](https://discordapp.com/users/954702228789268512)
+[discord](https://discordapp.com/users/954702228789268512) | [telegram](https://t.me/mnelen12345)
 
