@@ -9,7 +9,7 @@
 
 ### Discord
 <a href="https://discord.com/users/954702228789268512"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/954702228789268512?theme=light&bg=77cbce&borderRadius=15px&animated=true&">
+    <img src="https://lanyard.cnrad.dev/api/954702228789268512?theme=dark&bg=660000&borderRadius=15px&animated=true&">
 </a>
 
 ### Contact me
