@@ -10,8 +10,8 @@
 - I have experience with <img src="https://skillicons.dev/icons?i=html" alt="." width="18" height="18"/> HTML, <img src="https://skillicons.dev/icons?i=css" alt="." width="18" height="18"/> CSS, <img src="https://skillicons.dev/icons?i=python" alt="." width="18" height="18"/> Python, <img src="https://skillicons.dev/icons?i=linux" alt="." width="18" height="18"/> Linux,  <img src="https://krita.org/images/favicon.ico" alt="." width="18" height="18"/>Krita
 
 ### Discord
-<div style="border-radius: 15px;">
-  <img src="https://lanyard.cnrad.dev/api/954702228789268512?theme=dark&bg=4d000a&borderRadius=15px&animated=true&">
+<div>
+  <img src="https://lanyard.cnrad.dev/api/954702228789268512?theme=dark&bg=4d000a&borderRadius=15px&animated=true" alt="meow none 404 yepi" style="border-radius: 15px;">
 </div>
 
 ### Contact me
