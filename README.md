@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mila.png" style="width: 100%; max-width: 100%;">
+  <img src="assets/banner.png" style="width: 100%; max-width: 100%;">
 </p>
 
 - I enjoy playing <img src="assets/icons/osu.png" alt="." width="18" height="18"/> <a href="https://osu.ppy.sh/" style="text-decoration: none;">osu!</a>, 
