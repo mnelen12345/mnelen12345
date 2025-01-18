@@ -11,7 +11,7 @@
 
 ### Discord
 <a href="https://discord.com/users/954702228789268512"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/954702228789268512?theme=dark&bg=4d000a&borderRadius=15px&animated=true">
+    <img src="https://lanyard.cnrad.dev/api/954702228789268512?theme=dark&waveColor=8B8BFA&waveSpotifyColor=B48EF7&bg=000000&borderRadius=15px&imgStyle=square&animated=true">
 </a>
 
 ### Contact me
